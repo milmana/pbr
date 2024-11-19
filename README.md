@@ -3,4 +3,4 @@ physically-based rendering
 
 
 # source:
-[Physically Based Rendering:From Theory To Implementation by Matt Pharr, Wenzel Jakob, and Greg Humphreys](https://pbr-book.org/)
+Pharr, M., Jakob, W., & Humphreys, G. (2024). Physically Based Rendering: From Theory To Implementation (4th ed.). Available online at https://pbr-book.org/
